@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Michael-Wei-Zichun
-- 👀 I’m interested in python，C，C++
-- 🌱 I’m currently learning MySQL,languages
-- 💞️ I’m looking to collaborate on small projects and with people who share the same interests with me
-- 📫 How to reach me 17364025895/2724781523@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Michael Wei Zichun
+Welcome to my GitHub profile! 🚀 Here's a bit about me:
 
-<!---
-Michael-Wei-Zichun/Michael-Wei-Zichun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 About Me
+💻 I'm passionate about: Python 🐍 and other programming languages.
+🌱 Currently learning: MySQL and exploring new languages to level up my skills!
+🤝 Looking to collaborate on: Small projects and connecting with like-minded people to share knowledge and grow together.
+📫 How to reach me?
+📞 Call me or text me: 17364025895
+📧 Send me an email: weizichun070@gmail.com
+🎯 Fun Facts!
+⚡ Fun fact about me: (Still brainstorming...stay tuned!) 😄
+😄 Pronouns: (Hint: Fill this in if you'd like!)
+🛠️ Tools & Technologies
+Languages I work with:
+Python
+MySQL
+(Add others as you learn!)
+
+Tools I love:
+(Add tools here! Examples: Git, Jupyter, VS Code...)
+
+📈 GitHub Stats
+Michael's GitHub stats
+[Optional: Add more sections, like top languages, streaks, etc.]
+
+🌐 Where you can find me:
+GitHub
+(You can link other profiles like LinkedIn, Twitter, etc.)
+
+Feel free to connect, share ideas, and build something awesome together! Let's code the future! 🚀✨
